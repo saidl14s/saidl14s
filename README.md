@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Said Llamas</h1>
 
-
 [![Twitter](https://img.shields.io/twitter/follow/said_llamas?style=social)](https://twitter.com/said_llamas)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6YYVDKZC3mu1iB8IOCFqcw?style=social)](https://youtube.com/danesteves?sub_confirmation=1)
 [![GitHub](https://img.shields.io/github/followers/saidllamasm?style=social)](https://github.com/saidllamasm)
 
-- 🔭 I’m currently working on @reworthrewards as a Senior Frontend Engineer
 - 🌱 I’m currently learning Scrum and PMI
 - 👯 I’m looking to collaborate on OSS projects
 - 💬 Ask me about why aliens haven't contacted us yet 🤪
