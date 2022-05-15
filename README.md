@@ -4,10 +4,10 @@
 [![GitHub](https://img.shields.io/github/followers/saidllamasm?style=social)](https://github.com/saidllamasm)
 
 - 🌱 I’m currently learning Scrum and PMI
-- 👯 I’m looking to collaborate on OSS projects
+- 👯 I’m looking to collaborate with ONG projects
 - 💬 Ask me about why aliens haven't contacted us yet 🤪
 - 📫 How to reach me: saidllamas@icloud.com
-- ⚡ Fun fact: I'm also a content creator
+- ⚡ Fun fact: I'm also a web developer
 
 ```ts
 let saidLlamasM: Profile = {
