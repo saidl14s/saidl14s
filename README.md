@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Said Llamas</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akshar&size=32&duration=3700&color=FFC107&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi!;I'm+Said+Llamas;+)](https://git.io/typing-svg)
 
 [![Twitter](https://img.shields.io/twitter/follow/said_llamas?style=social)](https://twitter.com/said_llamas)
 [![GitHub](https://img.shields.io/github/followers/saidllamasm?style=social)](https://github.com/saidllamasm)
