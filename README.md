@@ -1,15 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akshar&size=32&duration=3700&color=FFC107&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi!;I'm+Said+Llamas;+)](https://git.io/typing-svg)
 
-[![Twitter](https://img.shields.io/twitter/follow/said_llamas?style=social)](https://twitter.com/said_llamas)
-[![GitHub](https://img.shields.io/github/followers/saidllamasm?style=social)](https://github.com/saidllamasm)
-[![Linkedin: saidllamas](https://img.shields.io/badge/-saidllamas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidllamas/)](https://www.linkedin.com/in/saidllamas/)
-[![Visits Badge](https://badges.pufler.dev/visits/saidllamasm/saidllamasm)](https://badges.pufler.dev/visits/saidllamasm/saidllamasm)
-
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Scrum Master at <a href="https://www.tibs.com.mx/">TIBS México</a>
 - 🌱 I’m currently learning Scrum and PMBOK Guide
 - 👯 I’m looking to collaborate with ONG projects
 - 💬 Ask me about why aliens haven't contacted us yet 🤪
 - 📫 How to reach me: saidllamas@icloud.com
 - ⚡ Fun fact: I'm also a web developer
+
+[![Twitter](https://img.shields.io/twitter/follow/said_llamas?style=social)](https://twitter.com/said_llamas)
+[![GitHub](https://img.shields.io/github/followers/saidllamasm?style=social)](https://github.com/saidllamasm)
+[![Linkedin: saidllamas](https://img.shields.io/badge/-saidllamas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidllamas/)](https://www.linkedin.com/in/saidllamas/)
+[![Visits Badge](https://badges.pufler.dev/visits/saidllamasm/saidllamasm)](https://badges.pufler.dev/visits/saidllamasm/saidllamasm)
 
 ```ts
 let saidLlamasM: Profile = {
