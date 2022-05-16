@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/said_llamas?style=social)](https://twitter.com/said_llamas)
 [![GitHub](https://img.shields.io/github/followers/saidllamasm?style=social)](https://github.com/saidllamasm)
-[![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
+[![Visits Badge](https://badges.pufler.dev/visits/saidllamasm/saidllamasm)](https://badges.pufler.dev/visits/saidllamasm/saidllamasm)
 
 - 🌱 I’m currently learning Scrum and PMBOK Guide
 - 👯 I’m looking to collaborate with ONG projects
