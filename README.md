@@ -2,6 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/said_llamas?style=social)](https://twitter.com/said_llamas)
 [![GitHub](https://img.shields.io/github/followers/saidllamasm?style=social)](https://github.com/saidllamasm)
+[![Linkedin: saidllamas](https://img.shields.io/badge/-saidllamas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidllamas/)](https://www.linkedin.com/in/saidllamas/)
 [![Visits Badge](https://badges.pufler.dev/visits/saidllamasm/saidllamasm)](https://badges.pufler.dev/visits/saidllamasm/saidllamasm)
 
 - 🌱 I’m currently learning Scrum and PMBOK Guide
@@ -63,3 +64,6 @@ let saidLlamasM: Profile = {
 </div></td></tr></table>  
 
 <br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🥳</em>
+<br>
