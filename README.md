@@ -12,9 +12,11 @@
 ```ts
 let saidLlamasM: Profile = {
   pronouns: "he/him",
+  company: "TIBS México",
+  jobTitle: "Scrum Master",
   languages: ["Spanish", "English"],
   code: ["Java", "PHP", "JavaScript", "HTML", "CSS", "SQL"],
-  tools: ["React","Node.js", "Electron.js", "Express.js", "GraphQL"],
+  tools: ["React","Node.js", "Electron.js", "Express.js", "GraphQL", "Laravel", "CodeIgniter"],
   links: {
     cv: "https://read.cv/saidllamas", // ✍️
     twitter: "https://twitter.com/said_llamas", // 🐤
