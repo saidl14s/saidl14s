@@ -17,6 +17,7 @@ let saidLlamasM: Profile = {
   pronouns: "he/him",
   company: "TIBS México",
   jobTitle: "Scrum Master",
+  website: "said.tech",
   languages: ["Spanish", "English"],
   code: ["Java", "PHP", "JavaScript", "HTML", "CSS", "SQL"],
   tools: ["React","Node.js", "Electron.js", "Express.js", "GraphQL", "Laravel", "CodeIgniter"],
