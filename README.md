@@ -10,7 +10,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/said_llamas?style=social)](https://twitter.com/said_llamas)
 [![GitHub](https://img.shields.io/github/followers/saidllamasm?style=social)](https://github.com/saidllamasm)
 [![Linkedin: saidllamas](https://img.shields.io/badge/-saidllamas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidllamas/)](https://www.linkedin.com/in/saidllamas/)
-[![Visits Badge](https://badges.pufler.dev/visits/saidllamasm/saidllamasm)](https://badges.pufler.dev/visits/saidllamasm/saidllamasm)
 
 ```ts
 let saidLlamasM: Profile = {
