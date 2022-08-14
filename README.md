@@ -90,10 +90,12 @@ let saidLlamasM: Profile = {
 
 ### Managment  
 <div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/smpc.png" alt="Scrum Master Professional Certificate" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/jira.png" alt="Jira" height="45" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/clickup.png" alt="ClickUp" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/Trello.png" alt="Trello" height="45" />
+<img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/smpc.png" alt="Scrum Master Professional Certificate" height="50" />  
+<img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/jira.png" alt="Jira" height="45" />  
+<img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/clickup.png" alt="ClickUp" height="45" />  
+<img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/Trello.png" alt="Trello" height="45" />
+<img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/monday.png" alt="Monday" height="45" />
+
 
 </div></td>
 </tr>
