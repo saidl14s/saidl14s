@@ -95,7 +95,7 @@ let saidLlamasM: Profile = {
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/clickup.png" alt="ClickUp" height="45" />  
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/Trello.png" alt="Trello" height="45" />
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/monday.png" alt="Monday" height="45" />
-
+<img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/b1a600d50854e1384483a6a2e57691be2017e9fc/icons/asana.svg" alt="Asana" height="45" />
 
 </div></td>
 </tr>
