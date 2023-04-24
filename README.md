@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akshar&size=32&duration=3700&color=FFC107&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi!;I'm+Said+Llamas;+)](https://git.io/typing-svg)
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Scrum Master at <a href="https://www.tibs.com.mx/">TIBS México</a>
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Scrum Master & Team Coach at <a href="https://www.tibs.com.mx/">IA Interactive</a>
 - 🌱 I’m currently learning Scrum and PMBOK Guide
 - 👯 I’m looking to collaborate with ONG projects
 - 💬 Ask me about why aliens haven't contacted us yet 🤪
@@ -92,6 +92,7 @@ let saidLlamasM: Profile = {
 <div align="center">  
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/smpc.png" alt="Scrum Master Professional Certificate" height="50" />  
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/jira.png" alt="Jira" height="45" />  
+<img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/confluence.svg" alt="Confluence" height="45" />
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/clickup.png" alt="ClickUp" height="45" />  
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/Trello.png" alt="Trello" height="45" />
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/monday.png" alt="Monday" height="45" />
