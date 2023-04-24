@@ -19,7 +19,7 @@
 </a>
 </a>
 <a href="https://instagram.com/said_llamas" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.credly.com/users/said-llamas/badges" target="_blank">
 <img src=https://img.shields.io/badge/credly-FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white alt=credly style="margin-bottom: 5px;" />
