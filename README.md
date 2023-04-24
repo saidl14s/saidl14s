@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akshar&size=32&duration=3700&color=FFC107&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi!;I'm+Said+Llamas;+)](https://git.io/typing-svg)
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Scrum Master & Team Coach at <a href="https://ia.com.mx/">IA Interactive</a>
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Scrum Master & Team Coach at <a target="_blank" href="https://ia.com.mx/">IA Interactive</a>
 - 🌱 I’m currently learning Scrum and PMBOK Guide
 - 👯 I’m looking to collaborate with ONG projects
 - 💬 Ask me about why aliens haven't contacted us yet 🤪
@@ -22,7 +22,10 @@
 </a>
 <a href="https://instagram.com/said_llamas" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href="https://www.credly.com/users/said-llamas/badges" target="_blank">
+<img src=https://img.shields.io/badge/credly-FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white alt=credly style="margin-bottom: 5px;" />
+</a> 
 </div>  <br>
 
 ```ts
@@ -38,7 +41,7 @@ let saidLlamasM: Profile = {
     cv: "https://read.cv/saidllamas", // ✍️
     twitter: "https://twitter.com/said_llamas", // 🐤
     linkedin: "https://linkedin.com/in/saidllamas", // 💼
-    creddly: "https://www.credly.com/users/said-llamas/badges" // 🪪
+    credly: "https://www.credly.com/users/said-llamas/badges" // 🪪
   },
 };
 ```
