@@ -28,8 +28,8 @@
 ```ts
 let saidLlamasM: Profile = {
   pronouns: "he/him",
-  company: "TIBS México",
-  jobTitle: "Scrum Master",
+  company: "IA Interactive",
+  jobTitle: "Scrum Master & Team Coach",
   website: "https://saidllamas.tech",
   languages: ["Spanish", "English"],
   code: ["Java", "PHP", "JavaScript", "HTML", "CSS", "SQL"],
@@ -37,7 +37,8 @@ let saidLlamasM: Profile = {
   links: {
     cv: "https://read.cv/saidllamas", // ✍️
     twitter: "https://twitter.com/said_llamas", // 🐤
-    linkedin: "https://linkedin.com/in/saidllamas" // 💼
+    linkedin: "https://linkedin.com/in/saidllamas", // 💼
+    creddly: "https://www.credly.com/users/said-llamas/badges" // 🪪
   },
 };
 ```
