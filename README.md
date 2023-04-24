@@ -32,14 +32,15 @@ let saidLlamasM: Profile = {
   company: "IA Interactive",
   jobTitle: "Scrum Master & Team Coach",
   website: "https://saidllamas.tech",
+  email: "said.llamas.97@gmail.com",
   languages: ["Spanish", "English"],
   code: ["Java", "PHP", "JavaScript", "HTML", "CSS", "SQL"],
   tools: ["React","Node.js", "Electron.js", "Express.js", "GraphQL", "Laravel", "CodeIgniter"],
   links: {
-    cv: "https://read.cv/saidllamas", // ✍️
-    twitter: "https://twitter.com/said_llamas", // 🐤
-    linkedin: "https://linkedin.com/in/saidllamas", // 💼
-    credly: "https://www.credly.com/users/said-llamas/badges" // 🪪
+    cv: "https://read.cv/saidllamasm", // ✍️
+    twitter: "https://twitter.com/saidllamasm", // 🐤
+    linkedin: "https://linkedin.com/in/saidllamasm", // 💼
+    credly: "https://www.credly.com/users/saidllamasm" // 🪪
   },
 };
 ```
