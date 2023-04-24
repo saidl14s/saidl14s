@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Scrum and PMBOK Guide
 - 👯 I’m looking to collaborate with ONG projects
 - 💬 Ask me about why aliens haven't contacted us yet 🤪
-- 📫 How to reach me: saidllamas@icloud.com
+- 📫 How to reach me: said.llamas.97@gmail.com
 - ⚡ Fun fact: I'm also a web developer
 
 <div align="center">
