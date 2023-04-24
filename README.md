@@ -8,20 +8,20 @@
 - ⚡ Fun fact: I'm also a web developer
 
 <div align="center">
-<a href="https://twitter.com/said_llamas" target="_blank">
+<a href="https://twitter.com/saidllamasm" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/saidllamas" target="_blank">
+<a href="https://dev.to/saidllamasm" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/saidllamas" target="_blank">
+<a href="https://linkedin.com/in/saidllamasm" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </a>
-<a href="https://instagram.com/said_llamas" target="_blank">
+<a href="https://instagram.com/saidllamasm" target="_blank">
 <img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-<a href="https://www.credly.com/users/said-llamas/badges" target="_blank">
+<a href="https://www.credly.com/users/saidllamasm" target="_blank">
 <img src=https://img.shields.io/badge/credly-FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white alt=credly style="margin-bottom: 5px;" />
 </a> 
 </div>  <br>
