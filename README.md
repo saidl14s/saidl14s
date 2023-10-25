@@ -93,6 +93,7 @@ let saidLlamasM: Profile = {
 
 ### Managment  
 <div align="center">  
+<img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/psm1.png" alt="Professional Scrum Master™ I (PSM I)" height="50" />  
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/smpc.png" alt="Scrum Master Professional Certificate" height="50" />  
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/jira.png" alt="Jira" height="45" />  
 <img style="margin: 20px" src="https://raw.githubusercontent.com/saidllamasm/saidllamasm/master/icons/confluence.svg" alt="Confluence" height="45" />
