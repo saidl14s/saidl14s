@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akshar&size=32&duration=3700&color=FFC107&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi!;I'm+Said+Llamas;+)](https://git.io/typing-svg)
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Scrum Master & Team Coach at <a target="_blank" href="https://ia.com.mx/">IA Interactive</a>
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Scrum Master at <a target="_blank" href="https://stefanini.com/es">Stefanini Group</a>
 - 🌱 I’m currently learning Scrum and PMBOK Guide
 - 👯 I’m looking to collaborate with ONG projects
 - 💬 Ask me about why aliens haven't contacted us yet 🤪
