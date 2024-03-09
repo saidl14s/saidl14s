@@ -26,8 +26,8 @@
 ```ts
 let saidLlamasM: Profile = {
   pronouns: "he/him",
-  company: "IA Interactive",
-  jobTitle: "Scrum Master & Team Coach",
+  company: "Stefanini Gropup",
+  jobTitle: "Scrum Master",
   website: "https://saidllamas.tech",
   email: "said.llamas.97@gmail.com",
   languages: ["Spanish", "English"],
